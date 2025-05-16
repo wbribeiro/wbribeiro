@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo William , tenho 31 anos e sou morador da região serrana do estado do Rio de Janeiro.
+- 👋 Olá, me chamo William , tenho 31 anos e sou técnico de T.I .
 - 👀  Tenho interesse em  me especializar na área de Desenvolvedor.
 - 💻 Procuro colaborar no que for possível e estiver ao alcance do meu conhecimento.
 - 📫  Você pode me encontrar no instagram @wbribeiro ou através do Linkedin  https://www.linkedin.com/in/william-ribeiro-97a30420a/
